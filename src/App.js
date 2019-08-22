@@ -14,6 +14,9 @@ function App() {
           my second commit
           *******************
           *******************
+          merge request
+          *******************
+
         </p>
         <a
           className="App-link"
