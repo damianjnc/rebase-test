@@ -18,6 +18,8 @@ function App() {
           feature
           feature
           *****************
+          another feature
+          *****************
         </p>
         <a
           className="App-link"
